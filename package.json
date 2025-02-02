@@ -1,0 +1,16 @@
+{
+  "name": "linkup",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon Backend/server.js"
+  },
+  "author": "\"Ritesh\"",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
